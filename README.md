@@ -40,7 +40,7 @@ portfolio-project/
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```sh
-    git clone https://github.com/your-username/portfolio-project.git
+    git clone https://github.com/ishita-matwala21/Portfolio.git
     ```
 
 2. **Open the Project**: Navigate to the project directory and open the `index.html` file in your preferred web browser.
